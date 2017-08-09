@@ -1,0 +1,14 @@
+修改Preference中General->Workspace的编码
+（如果已有项目，还需要修改工程的编码）
+
+修改formatter，tab改为空格，8个字符，并且把自动格式化的一行长度修改为9999
+
+安装vrapper，修改eclipse映射的快捷键：windows ->general->key
+
+已经知道需要修改的组合键有：
+Ctrl e
+Ctrl f
+Ctrl p
+Ctrl n
+Ctrl y
+Ctrl Shift v
